@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import InformasiDana from "../components/Dashboard/InformasiDana";
 import JumlahKamar from "../components/Dashboard/JumlahKamar";
 import JumlahSantri from "../components/Dashboard/JumlahSantri";
